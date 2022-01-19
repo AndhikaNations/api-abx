@@ -1,5 +1,5 @@
 {
-  "name": "Alphabot-api",
+  "name": "Abx-api",
   "version": "1.0.0",
   "description": "res api website",
   "main": "index.js",
@@ -11,12 +11,12 @@
     "type": "git",
     "url": "git+ssh://git@github.com/LoliKillers/Arnz-Api.git"
   },
-  "author": "LolKill & Zee",
+  "author": "LolKill & Andhika",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeneofc/"
+    "url": "https://github.com/AndhikaNations/"
   },
-  "homepage": "https://github.com/zeeoneofc",
+  "homepage": "https://github.com/AndhikaNations",
   "dependencies": {
     "@lolikillers/aexm-api": "github:Aexm47/AEXM47",
     "axios": "^0.21.1",
